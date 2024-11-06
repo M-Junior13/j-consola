@@ -1,2 +1,2 @@
-Esto esta con el master - commit nuevo, acá ya hicimos el merge
+Esto esta con el master
 
